@@ -27,3 +27,7 @@
 - Blog post - HTML
 - Blog post - CSS
 - Media queries
+
+## Useful Links & References
+
+- [Julio Codes](https://www.youtube.com/@juliocodes) - YouTube channel focusing on teaching you how to code the web with a project based learning approach.

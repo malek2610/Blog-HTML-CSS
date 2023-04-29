@@ -12,7 +12,6 @@
 # Built Visual Studio Code Extensions
 *.vsix
 
-### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
 .ionide
